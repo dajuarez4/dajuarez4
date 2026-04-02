@@ -20,9 +20,9 @@ Python • LAMMPS • Quantum ESPRESSO • ASE • C++ • MPI • HPC (Slurm)
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dajuarez4&show_icons=true&theme=tokyonight&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dajuarez4&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dajuarez4&layout=compact&theme=tokyonight&cache_seconds=60)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dajuarez4&layout=compact&theme=tokyonight)
 
 ---
 
