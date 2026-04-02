@@ -14,15 +14,15 @@ Computational Materials Science | Molecular Dynamics | Density Functional Theory
 ---
 
 ## Tools and Technologies
-Python • LAMMPS • Quantum ESPRESSO • ASE • C++ • MPI • HPC (Slurm)
+Python • LAMMPS • Quantum ESPRESSO • ASE • PyTorch • MPI • HPC (Slurm)
 
 ---
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dajuarez4&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dajuarez4&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dajuarez4&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dajuarez4&theme=tokyonight)
 
 ---
 
