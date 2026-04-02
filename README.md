@@ -25,6 +25,16 @@ Python • LAMMPS • Quantum ESPRESSO • ASE • PyTorch • MPI • High-Perf
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dajuarez4&theme=tokyonight" height="180em"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dajuarez4&theme=tokyonight"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dajuarez4&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dajuarez4&theme=tokyonight" height="180em"/>
+</p>
+
 ---
 
 ## Featured Projects
