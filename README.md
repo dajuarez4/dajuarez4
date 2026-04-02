@@ -14,7 +14,7 @@ Computational Materials Science | Molecular Dynamics | Density Functional Theory
 ---
 
 ## Tools and Technologies
-Python • LAMMPS • Quantum ESPRESSO • ASE • PyTorch • MPI • High-Performance Computing (Slurm)
+Python • LAMMPS • Quantum ESPRESSO • ASE • MPI • High-Performance Computing (Slurm)
 
 ---
 
