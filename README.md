@@ -14,12 +14,11 @@ Computational Materials Science | Molecular Dynamics | Density Functional Theory
 ---
 
 ## Tools and Technologies
-Python • LAMMPS • Quantum ESPRESSO • ASE • PyTorch • MPI • HPC (Slurm)
+Python • LAMMPS • Quantum ESPRESSO • ASE • PyTorch • MPI • High-Performance Computing (Slurm)
 
 ---
 
 ## GitHub Statistics
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dajuarez4&theme=tokyonight" height="180em"/>
@@ -35,5 +34,6 @@ Python • LAMMPS • Quantum ESPRESSO • ASE • PyTorch • MPI • HPC (Slur
 ---
 
 ## Contact
-- Email: diegojuarezrosales@gmail.com 
-
+- Email: diegojuarezrosales@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/diego-juarez-rosales-8252ab2b9/  
+- Website: https://dajuarez4.github.io/diegojuarez-lab.github.io/  
