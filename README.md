@@ -34,6 +34,7 @@ Python • LAMMPS • Quantum ESPRESSO • ASE • MPI • High-Performance Comp
 ## Featured Projects
 - **MoSHEAHu** – Framework for identifying stable high-entropy alloys  
 - **NiTi Defect Study** – Thermodynamic and mechanical analysis under vacancies and antisites  
+- **Computational Electrodynamics** – Jackson-based electrodynamics project with notebooks, derivations, visualizations, and an interactive web lab. [Repo](https://github.com/dajuarez4/Computational-Electrodynamics)  
 
 ---
 
