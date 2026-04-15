@@ -1,5 +1,7 @@
 # Hi, I'm Diego
-
+<p align="center">
+  <img src="assets/demo.gif" alt="demo" width="600"/>
+</p>
 PhD Student in Physics at UTEP  
 Computational Materials Science | Molecular Dynamics | Density Functional Theory | Machine Learning  
 
